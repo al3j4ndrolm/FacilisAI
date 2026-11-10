@@ -6,10 +6,6 @@
 
 **On-device AI and agents for Android in one line.** Offline, private, free. No API keys, no server.
 
-<p align="center">
-  <img src="docs/social-preview.png" alt="FacilisAI: on-device AI for Android in one line" width="640">
-</p>
-
 Part of the Facilis family, with [FacilisCam](https://github.com/al3j4ndrolm/FacilisCam), [FacilisStorage](https://github.com/al3j4ndrolm/FacilisStorage), [FacilisPermission](https://github.com/al3j4ndrolm/FacilisPermission) and [FacilisNotification](https://github.com/al3j4ndrolm/FacilisNotification).
 
 ```kotlin
