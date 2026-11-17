@@ -1,7 +1,6 @@
 # FacilisAI
 
 [![JitPack](https://jitpack.io/v/al3j4ndrolm/FacilisAI.svg)](https://jitpack.io/#al3j4ndrolm/FacilisAI)
-[![Build](https://github.com/al3j4ndrolm/FacilisAI/actions/workflows/build.yml/badge.svg)](https://github.com/al3j4ndrolm/FacilisAI/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **On-device AI and agents for Android in one line.** Offline, private, free. No API keys, no server.
